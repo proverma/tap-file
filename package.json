@@ -1,7 +1,7 @@
 {
     "name": "tap-file",
     "description": "Mocha TAP reporter, with added capability of storing results in a file ",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Pranav Verma",
         "email": "pranav.verma@gmail.com"
