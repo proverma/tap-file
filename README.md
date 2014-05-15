@@ -11,7 +11,7 @@ Mocha TAP reporter, with added capability of storing results in a file
 
 The tap output file is saved to the file given in the TAP_FILE environment variable, or process.cwd()/results.tap
 
-> TAP_FILE=output/results.tap mocha -R xunit-file
+> TAP_FILE=output/results.tap mocha -R tap-file
 
 
 
